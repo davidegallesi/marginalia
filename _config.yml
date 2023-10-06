@@ -20,7 +20,7 @@
 
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://davidegallesi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://davidegallesi.github.io/marginalia" # the base hostname & protocol for your site, e.g. http://example.com
 
 #######################################################################
 # Settings related to the Header and your About page go here,such as 
@@ -63,13 +63,13 @@ user:
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: false  # turn this to true
-    twitter: rgvrme
-    github: rgvr 
-    youtube: rgvr 
-    linkedin: rgvr  
-    twitch: null
-    facebook: null 
-    instagram: null
+    twitter: 
+    github:  
+    youtube:  
+    linkedin:   
+    twitch: 
+    facebook:  
+    instagram: 
 
 
 
